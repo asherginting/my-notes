@@ -1,0 +1,18 @@
+{
+  "name": "my-notes-backend",
+  "version": "1.0.0",
+  "description": "sorry I've never used laravel and haven't setup",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Asher Azriel Ginting",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
