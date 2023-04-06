@@ -15,9 +15,16 @@ $ npm run start
 
 # generate static project
 $ npm run generate
+
+# cd to folder server run at localhost:5000
+$ npm run dev
 ```
 
 For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).
+
+<p align="center">
+<a href="#"><img src="https://user-images.githubusercontent.com/39787908/230335670-cb6e1ca6-3b2d-415a-b833-7e1b9772c470.png" alt="Profile-Asher" height="300"></a>
+</p>
 
 ## Special Directories
 
